@@ -239,7 +239,7 @@ opening a support request.
 - 💡 **Suggest** ideas with the `enhancement` label
 - 📣 **Share** it with someone who needs it
 
-*terraria-identity-reset · Updated 2026-10-25 · Shared under the MIT License*
+*terraria-identity-reset · Updated 2026-11-25 · Shared under the MIT License*
 
 
-Updated 2026-10-25.
+Updated 2026-11-25.
